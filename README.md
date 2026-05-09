@@ -1,2 +1,2 @@
 # possolution.pt
-POS solution
+POS Solutions Portugal - Software & Hardware
